@@ -8,6 +8,7 @@ pip3 install --upgrade awscli
 ```
 
 Set your AWS credentials via
+
 ```aws configure```
 
 Fill it
